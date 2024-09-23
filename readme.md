@@ -24,7 +24,7 @@ Career-Assistant is an AI-powered career guidance assistant designed to help use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/pathmentor.git
+   https://github.com/Fushiguro11/HealthMate.git
 
 2. Navigate to the project directory:
 
