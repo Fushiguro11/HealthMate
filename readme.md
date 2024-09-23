@@ -1,6 +1,6 @@
-# Career-Assistant - An AI Assistant to Guide You in Your Career
+# HealthMate- An AI Assistant to Guide You in Your Health
 
-Career-Assistant is an AI-powered career guidance assistant designed to help users make informed decisions about their career path. The chatbot offers interactive advice and support, using the Gaianet Public Node for data-driven insights to help users shape their professional journey.
+HealthMate is an AI-powered healthcare guidance assistant designed to help users make informed decisions about their healthcare. The chatbot offers interactive advice and support, using the Gaianet Public Node for data-driven insights to help users shape their healthcare.
 
 ![Path-Mentor](HealthMate.png)
 
@@ -8,7 +8,7 @@ Career-Assistant is an AI-powered career guidance assistant designed to help use
 
 - **User-friendly Interface**: A clean and elegant interface designed for seamless interaction.
 - **AI-Powered Guidance**: Provides personalized career advice powered by Gaianet AI.
-- **Real-time Feedback**: Instant responses to career-related queries, helping users navigate their professional journey effectively.
+- **Real-time Feedback**: Instant responses to healthcare queries, helping users navigate their health  effectively.
 - **Interactive Design**: A modern, stylish layout to enhance the user experience and make career exploration engaging.
 
 ## Technologies Used
@@ -24,7 +24,7 @@ Career-Assistant is an AI-powered career guidance assistant designed to help use
 1. Clone the repository:
 
    ```bash
-   https://github.com/Fushiguro11/HealthMate.git
+   git clone https://github.com/Fushiguro11/HealthMate.git
 
 2. Navigate to the project directory:
 
