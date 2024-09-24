@@ -29,7 +29,7 @@ HealthMate is an AI-powered healthcare guidance assistant designed to help users
 2. Navigate to the project directory:
 
     ```bash 
-    cd pathmentor
+    cd HealthMate
 
 3. Install dependencies:
 
